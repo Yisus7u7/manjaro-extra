@@ -12,7 +12,7 @@ add the repository to your `/etc/pacman.conf` file
 ```bash
 [manjaro-extra]
 SigLevel = Optional
-Server = https://yisus7u7.github.io/manjaro-extra
+Server = https://yisus7u7.github.io/manjaro-extra/packages
 ```
 
 # Contribute
